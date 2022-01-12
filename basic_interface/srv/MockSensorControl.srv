@@ -1,0 +1,4 @@
+string sensor_id
+int64 command 
+---
+bool is_success
